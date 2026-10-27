@@ -1,5 +1,6 @@
 .vercel
 .supabase
+supabase/.temp/
 *.log
 .DS_Store
 Thumbs.db
